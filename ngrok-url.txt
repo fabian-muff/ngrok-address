@@ -1,1 +1,1 @@
-https://f3a6797eeb90.ngrok.io
+http://f3a6797eeb90.ngrok.io
